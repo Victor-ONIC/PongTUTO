@@ -2,6 +2,7 @@
 
 *.dll
 /bin
-/libSFML
+/lib
+/include
 
 Makefile
